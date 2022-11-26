@@ -23,4 +23,12 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
     Os mecânicos possuem código, nome, endereço e especialidade
     Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+O arquivo sql "desafio_projeto_DB3" refere ao desafio de projeto "Construindo seu Primeiro Projeto Lógico de Banco de Dados" do módulo Banco de Dados SQL e NoSQL;
+
+
+
+A pasta "Boas práticas com DynamoDB" refere ao desafio de projeto "Boas práticas com DynamoDB", do módulo Imersão Cloud Computer;
+
+A pasta "Projeto_bigdata_aws" refere ao desafio de projeto "Explorando Dados Demográficos com Serviços de Big Data na AWS", do módulo Imersão Cloud Computer;
+
 O arquivo "projeto_final" é referente ao desafio de projeto "Treinamento de Redes neurais com Transfer Learning" do módulo Machine Learning;
