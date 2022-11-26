@@ -25,7 +25,7 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 
 O arquivo sql "desafio_projeto_DB3" refere ao desafio de projeto "Construindo seu Primeiro Projeto Lógico de Banco de Dados" do módulo Banco de Dados SQL e NoSQL;
 
-
+O arquivo sql "desafio_projeto_DB4" refere ao desafio de projeto "Construa um Projeto Lógico de Banco de Dados do Zero" do módulo Banco de Dados SQL e NoSQL;
 
 A pasta "Boas práticas com DynamoDB" refere ao desafio de projeto "Boas práticas com DynamoDB", do módulo Imersão Cloud Computer;
 
